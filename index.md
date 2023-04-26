@@ -50,6 +50,5 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-STYF42YSQD');
-</script>
+  gtag('config', 'G-STYF42YSQD');</script>
 
