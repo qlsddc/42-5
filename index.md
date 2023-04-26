@@ -11,7 +11,7 @@
 
   
 ### スクショ
-<a href="https://github.com/qlsddc/42-5/raw/master/th_kakidan_01.jpg">
+<a href="https://github.com/qlsddc/42-5/main/th_kakidan_01.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/th_kakidan_01.jpg" width="320"></a>
 <a href="https://github.com/qlsddc/42-5/raw/master/th_pra_01.jpg">
 <img src="https://github.com/qlsddc/42-5/raw/master/th_pra_01.jpg" width="640"></a>  
