@@ -37,18 +37,20 @@
 [怒首領蜂メモ](https://qlsddc.github.io/42-5/dodonpachi)  
 [youtube](https://www.youtube.com/channel/UC54WEkJe5iSZW8_K8Fj5SWQ)   
  
+ 
+
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-28N28RENV4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-28N28RENV4');
+</script>
+
+
 　  
    
 #### 東方怪綺談 二次創作Short Demo
 (Twitter全消しによりお亡くなりなったやつ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPMZjag6eDE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-STYF42YSQD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-STYF42YSQD');</script>
-
