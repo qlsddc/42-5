@@ -1,4 +1,4 @@
-   
+
 /[twitter](https://twitter.com/qlsddc) /[soundcloud(new)](https://soundcloud.com/qlsddc/) /連絡先: qlsddc@gmail.com  
 
 ### 更新情報
@@ -42,3 +42,14 @@
 #### 東方怪綺談 二次創作Short Demo
 (Twitter全消しによりお亡くなりなったやつ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPMZjag6eDE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-STYF42YSQD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-STYF42YSQD');
+</script>
+
