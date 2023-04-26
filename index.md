@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/qlsddc/42-5/main/th_pra_01.jpg" width="640"></a>  
 　  
 #### 音楽(mp3)
-2012/10/19 - [マヨヒガ回想曲]https://raw.githubusercontent.com/qlsddc/42-5/main/mayohiga.mp3)  
+2012/10/19 - [マヨヒガ回想曲](https://raw.githubusercontent.com/qlsddc/42-5/main/mayohiga.mp3)  
 2015/02/20 - [ロックマン10 - Against the Pressure](https://raw.githubusercontent.com/qlsddc/42-5/main/against_the_pressure.mp3)  
 2016/12/18 - [洞窟物語 - 胎生](https://raw.githubusercontent.com/qlsddc/42-5/main/cavestory_gestation.mp3)  
 2017/01/16 - [洞窟物語 - セメタリー](https://raw.githubusercontent.com/qlsddc/42-5/main/cavestory_cemetery.mp3)  
