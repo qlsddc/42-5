@@ -26,7 +26,7 @@
 →復帰したらさらにオーラ撃ち（無敵時間があるのでもう2波の弾は一切飛んできません。もし飛んできたら被弾するのが早すぎます）   
 →そのまま第3波開始寸前までオーラ撃ち   
    
-![alt](https://github.com/qlsddc/42-5/raw/master/hibachi.png)   
+![alt](https://raw.githubusercontent.com/qlsddc/42-5/main/hibachi.png)   
 ※安定してこのくらい削ることができます。5文字分くらい。   
 ### 怒首領蜂AC版とPS版の違い   
 ・<span style="color:red;">致命的な点</span>   
