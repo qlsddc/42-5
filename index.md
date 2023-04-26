@@ -4,7 +4,7 @@
 ### 更新情報
 2023/02/22 - [東方ダンマクカグラ - ハコニワBGM 03(pdf)](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu03.pdf)---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagubgm03.mp3) 異名同音・調号は作りやすさ優先。  
 2022/10/30 - [東方ダンマクカグラ - ハコニワBGM 02(pdf)](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu02.pdf)---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagubgm02.mp3)  
-2022/10/29 - [東方ダンマクカグラ - ハコニワBGM 01(pdf)]([https://github.com/qlsddc/42-5/raw/master/](https://raw.githubusercontent.com/qlsddc/42-5/main/)dankagu01.pdf)---[mp3](https://github.com/qlsddc/42-5/raw/master/dankagubgm01.mp3)  さらに[簡単版]([https://github.com/qlsddc/42-5/raw/master/](https://raw.githubusercontent.com/qlsddc/42-5/main/)dankagu01_easy.pdf)  
+2022/10/29 - [東方ダンマクカグラ - ハコニワBGM 01(pdf)](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu01.pdf)---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagubgm01.mp3)  さらに[簡単版](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu01_easy.pdf)  
 
 2018/12/27 - [RD-Sounds(凋叶棕) - 空に近い場所(pdf)](https://raw.githubusercontent.com/qlsddc/42-5/main/soratika.pdf)
 ---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/soratika.mp3)  
@@ -28,7 +28,7 @@
 ---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/arei.mp3)  
 2018/12/27 - [RD-Sounds(凋叶棕) - 空に近い場所](https://raw.githubusercontent.com/qlsddc/42-5/main/soratika.pdf)
 ---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/soratika.mp3)  
-2022/10/29 - [東方ダンマクカグラ - ハコニワBGM01](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu01.pdf)---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagubgm01.mp3)  さらに[簡単版](https://github.com/qlsddc/42-5/raw/master/dankagu01_easy.pdf)  
+2022/10/29 - [東方ダンマクカグラ - ハコニワBGM01](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu01.pdf)---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagubgm01.mp3)  さらに[簡単版](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu01_easy.pdf)  
 2022/10/30 - [東方ダンマクカグラ - ハコニワBGM 02](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu02.pdf)---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagubgm02.mp3)  
 2023/02/22 - [東方ダンマクカグラ - ハコニワBGM 03](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagu03.pdf)---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/dankagubgm03.mp3) 異名同音・調号は作りやすさ優先。  
 
