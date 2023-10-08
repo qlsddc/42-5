@@ -9,12 +9,6 @@
 2018/12/27 - [RD-Sounds(凋叶棕) - 空に近い場所(pdf)](https://raw.githubusercontent.com/qlsddc/42-5/main/soratika.pdf)
 ---[mp3](https://raw.githubusercontent.com/qlsddc/42-5/main/soratika.mp3)  
 
-  
-### スクショ
-<a href="https://raw.githubusercontent.com/qlsddc/42-5/main/th_kakidan_01.jpg">
-<img src="https://raw.githubusercontent.com/qlsddc/42-5/main/th_kakidan_01.jpg" width="320"></a>
-<a href="https://raw.githubusercontent.com/qlsddc/42-5/main/th_pra_01.jpg">
-<img src="https://raw.githubusercontent.com/qlsddc/42-5/main/th_pra_01.jpg" width="640"></a>  
 　  
 #### 音楽(mp3)
 2012/10/19 - [マヨヒガ回想曲](https://raw.githubusercontent.com/qlsddc/42-5/main/mayohiga.mp3)  
@@ -48,10 +42,3 @@
 
   gtag('config', 'G-STYF42YSQD');
 </script>
-
-
-　  
-   
-#### 東方怪綺談 二次創作Short Demo
-(Twitter全消しによりお亡くなりなったやつ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FPMZjag6eDE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
