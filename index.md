@@ -1,5 +1,5 @@
 
-/[twitter](https://twitter.com/qlsddc) /[soundcloud(new)](https://soundcloud.com/qlsddc/) /連絡先: qlsddc@gmail.com  
+/[twitter](https://twitter.com/qlsddc) /[soundcloud(new)](https://soundcloud.com/qlsddc/) /  
 　  
 #### 音楽(mp3)
 2012/10/19 - [マヨヒガ回想曲](https://raw.githubusercontent.com/qlsddc/42-5/main/mayohiga.mp3)  
